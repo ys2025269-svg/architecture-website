@@ -1,5 +1,5 @@
 # architecture-website
-author - yogesh saini
+author - yogesh (code with yogesh)
 #include<stdio.h>
 
 int main(){
